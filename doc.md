@@ -18,7 +18,7 @@ is 1.15" x 1.75 x 0.5" high"
 
 
 Either 2 PT-19 photo transistors or
-[“Da Fingah”](/page/IO4-IR-Detector-GBunza-Fingers) will work with this
+[“Da Fingah”](/pages/IO4-IR-Detector-GBunza-Fingers) will work with this
 board. One is used as an ambient light reference and another is
 placed between the rails. You may solder the reference photodetector
 onto the board if the board will be mounted where is has the same
