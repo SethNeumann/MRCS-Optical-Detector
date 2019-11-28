@@ -1212,7 +1212,7 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 &lt;/tr&gt;
 &lt;/table&gt;</description>
 <packages>
-<package name="E2,5-5">
+<package name="E2.5-5">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 2.54 mm, diameter 5 mm</description>
 <wire x1="-1.651" y1="1.27" x2="-1.397" y2="1.27" width="0.1524" layer="21"/>
@@ -1628,7 +1628,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="43.18" y="15.621" size="1.27" layer="25" font="vector" rot="R180"/>
 <attribute name="VALUE" x="37.338" y="15.621" size="0.8128" layer="21" font="vector" ratio="15" rot="R180"/>
 </element>
-<element name="C1" library="rcl" package="E2,5-5" value="1 uF Tant" x="22.86" y="10.414" smashed="yes" rot="MR0">
+<element name="C1" library="rcl" package="E2.5-5" value="1 uF Tant" x="22.86" y="10.414" smashed="yes" rot="MR0">
 <attribute name="NAME" x="22.225" y="11.811" size="1.27" layer="21" ratio="10"/>
 <attribute name="VALUE" x="20.447" y="8.001" size="1.27" layer="27" ratio="10"/>
 </element>

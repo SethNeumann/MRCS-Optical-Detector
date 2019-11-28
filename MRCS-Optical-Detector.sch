@@ -2479,7 +2479,7 @@ diameter 8.0 mm, grid 5.08 mm</description>
 <text x="-2.54" y="-2.667" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 <text x="2.032" y="1.016" size="0.9906" layer="21" ratio="12">TT</text>
 </package>
-<package name="E1,8-4">
+<package name="E1.8-4">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 1.8 mm, diameter 4 mm</description>
 <wire x1="-1.524" y1="0" x2="-0.762" y2="0" width="0.1524" layer="51"/>
@@ -2690,7 +2690,7 @@ grid 15.24 mm, diameter 9 mm</description>
 <rectangle x1="6.096" y1="-0.254" x2="6.477" y2="0.254" layer="21"/>
 <rectangle x1="-6.477" y1="-0.254" x2="-6.096" y2="0.254" layer="21"/>
 </package>
-<package name="E2,5-4R">
+<package name="E2.5-4R">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 2.54 mm, diameter 4 mm</description>
 <wire x1="-0.127" y1="0" x2="0.0762" y2="0" width="0.6096" layer="21"/>
@@ -2704,7 +2704,7 @@ grid 2.54 mm, diameter 4 mm</description>
 <text x="0.762" y="1.016" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="0.762" y="-2.286" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="E2,5-5">
+<package name="E2.5-5">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 2.54 mm, diameter 5 mm</description>
 <wire x1="-1.651" y1="1.27" x2="-1.397" y2="1.27" width="0.1524" layer="21"/>
@@ -2725,7 +2725,7 @@ grid 2.54 mm, diameter 5 mm</description>
 <text x="2.413" y="-2.413" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 <rectangle x1="0.254" y1="-1.27" x2="0.762" y2="1.27" layer="51"/>
 </package>
-<package name="E2,5-6">
+<package name="E2.5-6">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 2.54 mm, diameter 6 mm</description>
 <wire x1="-2.032" y1="1.27" x2="-1.651" y2="1.27" width="0.1524" layer="21"/>
@@ -2746,7 +2746,7 @@ grid 2.54 mm, diameter 6 mm</description>
 <text x="2.667" y="-2.667" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 <rectangle x1="0.254" y1="-1.27" x2="0.762" y2="1.27" layer="51"/>
 </package>
-<package name="E2,5-7">
+<package name="E2.5-7">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 2.54 mm, diameter 7 mm</description>
 <wire x1="-3.048" y1="0" x2="-2.286" y2="0" width="0.1524" layer="21"/>
@@ -2765,7 +2765,7 @@ grid 2.54 mm, diameter 7 mm</description>
 <text x="3.048" y="-3.175" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 <rectangle x1="0.254" y1="-1.27" x2="0.762" y2="1.27" layer="51"/>
 </package>
-<package name="E2,5RE">
+<package name="E2.5RE">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 2.54 mm, diameter 4 mm,</description>
 <wire x1="-0.127" y1="0" x2="0.0762" y2="0" width="0.6096" layer="21"/>
@@ -3007,7 +3007,7 @@ grid 22.86 mm, diameter 9 mm</description>
 <rectangle x1="-9.779" y1="-0.381" x2="-8.89" y2="0.381" layer="21"/>
 <rectangle x1="8.89" y1="-0.381" x2="9.779" y2="0.381" layer="21"/>
 </package>
-<package name="E3,5-10">
+<package name="E3.5-10">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 3.5 mm, diameter 10 mm</description>
 <wire x1="-3.429" y1="1.143" x2="-2.667" y2="1.143" width="0.1524" layer="21"/>
@@ -3154,7 +3154,7 @@ grid 25.4 mm, diameter 9 mm</description>
 <rectangle x1="-11.049" y1="-0.381" x2="-10.16" y2="0.381" layer="21"/>
 <rectangle x1="10.16" y1="-0.381" x2="11.049" y2="0.381" layer="21"/>
 </package>
-<package name="E3,5-8">
+<package name="E3.5-8">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 3.5 mm, diameter 8 mm</description>
 <wire x1="-3.429" y1="1.143" x2="-2.667" y2="1.143" width="0.1524" layer="21"/>
@@ -3949,7 +3949,7 @@ grid 45.72 mm, diameter 25 mm</description>
 <rectangle x1="20.32" y1="-0.381" x2="20.828" y2="0.381" layer="21"/>
 <rectangle x1="-20.828" y1="-0.381" x2="-20.32" y2="0.381" layer="21"/>
 </package>
-<package name="E5-10,5">
+<package name="E5-10.5">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 5.08 mm, diameter 10.5 mm</description>
 <wire x1="-1.143" y1="0" x2="-0.889" y2="0" width="0.1524" layer="21"/>
@@ -4057,7 +4057,7 @@ grid 5.08 mm, diameter 6 mm</description>
 <text x="3.048" y="-2.921" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 <rectangle x1="0.254" y1="-1.016" x2="0.762" y2="1.016" layer="21"/>
 </package>
-<package name="E5-8,5">
+<package name="E5-8.5">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 5.08 mm, diameter 8.5 mm</description>
 <wire x1="-1.143" y1="0" x2="-0.889" y2="0" width="0.1524" layer="21"/>
@@ -4373,7 +4373,7 @@ grid 5.08 mm, diameter 9 mm</description>
 <text x="1.651" y="2.4638" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-5.08" y="-3.048" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="E7,5-16">
+<package name="E7.5-16">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 7.62 mm, diameter 16 mm</description>
 <wire x1="0.635" y1="0" x2="2.032" y2="0" width="0.1524" layer="21"/>
@@ -4392,7 +4392,7 @@ grid 7.62 mm, diameter 16 mm</description>
 <text x="-5.08" y="-4.2926" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 <rectangle x1="0.254" y1="-1.905" x2="0.889" y2="1.905" layer="21"/>
 </package>
-<package name="E7,5-18">
+<package name="E7.5-18">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 7.62 mm, diameter 18 mm</description>
 <wire x1="0.635" y1="0" x2="2.032" y2="0" width="0.1524" layer="21"/>
@@ -4431,7 +4431,7 @@ grid 10.16 mm, diameter 20 mm</description>
 <text x="-5.0546" y="-5.08" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 <rectangle x1="0.3302" y1="-2.54" x2="1.6002" y2="2.54" layer="21"/>
 </package>
-<package name="EB22,5D">
+<package name="EB22.5D">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 10.16 mm, diameter 22.5 mm</description>
 <wire x1="-2.54" y1="0" x2="-1.5748" y2="0" width="0.254" layer="21"/>
@@ -5608,7 +5608,7 @@ diameter 5 mm, grid 2.54 mm</description>
 <rectangle x1="-1.651" y1="-0.127" x2="-0.889" y2="0.635" layer="51"/>
 <rectangle x1="0" y1="1.6002" x2="0.4318" y2="3.4798" layer="21"/>
 </package>
-<package name="E2,5-6E">
+<package name="E2.5-6E">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 grid 2.54 mm, diameter 6 mm</description>
 <wire x1="-2.159" y1="0" x2="-2.667" y2="0" width="0.1524" layer="21"/>
@@ -6174,7 +6174,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <vertex x="-4.05" y="-2.825"/>
 </polygon>
 </package>
-<package name="UD-4X5,8_NICHICON">
+<package name="UD-4X5.8_NICHICON">
 <description>&lt;b&gt;ALUMINUM ELECTROLYTIC CAPACITORS&lt;/b&gt; UD Series 4 x 5.8 mm&lt;p&gt;
 Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <wire x1="-2.1" y1="2.1" x2="1.3" y2="2.1" width="0.1016" layer="51"/>
@@ -6201,7 +6201,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <vertex x="-1.55" y="-1.175"/>
 </polygon>
 </package>
-<package name="UD-5X5,8_NICHICON">
+<package name="UD-5X5.8_NICHICON">
 <description>&lt;b&gt;ALUMINUM ELECTROLYTIC CAPACITORS&lt;/b&gt; UD Series 5 x 5.8 mm&lt;p&gt;
 Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <wire x1="-2.6" y1="2.6" x2="1.8" y2="2.6" width="0.1016" layer="51"/>
@@ -6228,7 +6228,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <vertex x="-1.55" y="-1.875"/>
 </polygon>
 </package>
-<package name="UD-6,3X5,8_NICHICON">
+<package name="UD-6.3X5.8_NICHICON">
 <description>&lt;b&gt;ALUMINUM ELECTROLYTIC CAPACITORS&lt;/b&gt; UD Series 6.3 x 5.8 mm&lt;p&gt;
 Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <wire x1="-3.25" y1="3.25" x2="2.45" y2="3.25" width="0.1016" layer="51"/>
@@ -6255,7 +6255,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <vertex x="-2.2" y="-2.15"/>
 </polygon>
 </package>
-<package name="UD-6,3X7,7_NICHICON">
+<package name="UD-6.3X7.7_NICHICON">
 <description>&lt;b&gt;ALUMINUM ELECTROLYTIC CAPACITORS&lt;/b&gt; UD Series 6.3 x 7.7 mm&lt;p&gt;
 Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <wire x1="-3.25" y1="3.25" x2="2.45" y2="3.25" width="0.1016" layer="51"/>
@@ -6673,7 +6673,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E1.8-4" package="E1,8-4">
+<device name="E1.8-4" package="E1.8-4">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -6709,7 +6709,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E2.5-5V" package="E2,5-4R">
+<device name="E2.5-5V" package="E2.5-4R">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -6718,7 +6718,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E2.5-5" package="E2,5-5">
+<device name="E2.5-5" package="E2.5-5">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -6727,7 +6727,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E2.5-6" package="E2,5-6">
+<device name="E2.5-6" package="E2.5-6">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -6736,7 +6736,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E2.5-7" package="E2,5-7">
+<device name="E2.5-7" package="E2.5-7">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -6745,7 +6745,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E2.5-4V" package="E2,5RE">
+<device name="E2.5-4V" package="E2.5RE">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -6799,7 +6799,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E3.5-10" package="E3,5-10">
+<device name="E3.5-10" package="E3.5-10">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -6826,7 +6826,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E3.5-8" package="E3,5-8">
+<device name="E3.5-8" package="E3.5-8">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -6943,7 +6943,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E5-10.5" package="E5-10,5">
+<device name="E5-10.5" package="E5-10.5">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -6988,7 +6988,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E5-8.5" package="E5-8,5">
+<device name="E5-8.5" package="E5-8.5">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -7042,7 +7042,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E7.5-16" package="E7,5-16">
+<device name="E7.5-16" package="E7.5-16">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -7051,7 +7051,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E7.5-18" package="E7,5-18">
+<device name="E7.5-18" package="E7.5-18">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -7069,7 +7069,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E10-22.5" package="EB22,5D">
+<device name="E10-22.5" package="EB22.5D">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -7501,7 +7501,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="E2,5-6E" package="E2,5-6E">
+<device name="E2.5-6E" package="E2.5-6E">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -7861,7 +7861,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="UD-4X5,8" package="UD-4X5,8_NICHICON">
+<device name="UD-4X5.8" package="UD-4X5.8_NICHICON">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -7870,7 +7870,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="UD-5X5,8" package="UD-5X5,8_NICHICON">
+<device name="UD-5X5.8" package="UD-5X5.8_NICHICON">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -7879,7 +7879,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="UD-6,3X5,8" package="UD-6,3X5,8_NICHICON">
+<device name="UD-6.3X5.8" package="UD-6.3X5.8_NICHICON">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -7888,7 +7888,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="UD-6,3X7,7" package="UD-6,3X7,7_NICHICON">
+<device name="UD-6.3X7.7" package="UD-6.3X7.7_NICHICON">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
