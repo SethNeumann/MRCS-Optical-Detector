@@ -1,5 +1,5 @@
 # MRCS-DAPD-DFM
-## License: CERN Open Hardware Licence v1.2
+## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
 Ambiant light optical detector based on GBunza DAPD with Chubb style hysteresis
 
